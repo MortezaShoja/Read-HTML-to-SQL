@@ -1,0 +1,12 @@
+D:\Programming\Html Table Reader\HtmlTableRader\HtmlTableRader\bin\Debug\HtmlTableRader.exe
+D:\Programming\Html Table Reader\HtmlTableRader\HtmlTableRader\bin\Debug\HtmlTableRader.pdb
+D:\Programming\Html Table Reader\HtmlTableRader\HtmlTableRader\bin\Debug\HtmlTableRader.xml
+D:\Programming\Html Table Reader\HtmlTableRader\HtmlTableRader\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Html Table Reader\HtmlTableRader\HtmlTableRader\obj\x86\Debug\HtmlTableRader.Resources.resources
+D:\Programming\Html Table Reader\HtmlTableRader\HtmlTableRader\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programming\Html Table Reader\HtmlTableRader\HtmlTableRader\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programming\Html Table Reader\HtmlTableRader\HtmlTableRader\obj\x86\Debug\HtmlTableRader.exe
+D:\Programming\Html Table Reader\HtmlTableRader\HtmlTableRader\obj\x86\Debug\HtmlTableRader.xml
+D:\Programming\Html Table Reader\HtmlTableRader\HtmlTableRader\obj\x86\Debug\HtmlTableRader.pdb
+D:\Programming\Html Table Reader\HtmlTableRader\HtmlTableRader\obj\x86\Debug\HtmlTableRader.frmLoadBankInfo.resources
+D:\Programming\Html Table Reader\HtmlTableRader\HtmlTableRader\obj\x86\Debug\HtmlTableRader.frmViewBankInfo.resources
